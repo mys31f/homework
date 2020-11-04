@@ -23,13 +23,42 @@ if answer == "1"
             print "Your answer: "
                 answer_cpubrand = gets.chomp 
                     if answer_cpubrand == "1"
-                        puts "You can probably go buy a Ryzen 7 3700 or a Ryzen 9 CPU (either the 3900 or the 3950 is gonna do you well) or wait until the new Ryzen 5000 CPUs come out with a B550/X570 motherboard. However, beware of the Adobe suite with AMD, as there has not been much optimization from Adobe."
+                        puts "You can buy a Ryzen 5 3600 and you'd be satisfied with it. Probably the best bang for the buck right now. Though, Ryzen 5000 is coming out soon, so you might want to wait for that instead."
                     elsif answer_cpubrand == "2"
-                        puts "Probably your best bet is an i7-10700 or the i9-10900 "
+                        puts "Probably your best bet is an i5-10600K. Usually for gaming, this is all you'd need"
                     elsif answer_cpubrand == "3"
-                        puts "Either a Ryzen 7 3700 or an i7-10700 would be fine for what you need"
+                        puts "Either a Ryzen 5 3600 or an i5-10400 would be fine for what you need"
                     end
         elsif answer_1 == "2"
-            puts 
-            
+            puts "Do you have any brand preferences?"
+                puts "1. AMD"
+                puts "2. Intel"
+                puts "3. Either's fine"
+            print "Your answer: "
+                answer_cpubrand = gets.chomp 
+                    if answer_cpubrand == "1"
+                        puts "You can buy a Ryzen 5 3600 and you'd be satisfied with it. Probably the best bang for the buck right now. Though, Ryzen 5000 is coming out soon, so you might want to wait for that instead."
+                    elsif answer_cpubrand == "2"
+                        puts "Probably your best bet is an i5-10600K. Usually for gaming, this is all you'd need"
+                    elsif answer_cpubrand == "3"
+                        puts "Either a Ryzen 5 3600 or an i5-10400 would be fine for what you need"
+                    end
+        elsif answer_1 == "3"
+           puts ""
+        elsif answer_1 == "4"
+            puts "Do you have any brand preferences?"
+                puts "1. AMD"
+                puts "2. Intel"
+                puts "3. Either's fine"
+            print "Your answer: "
+                answer_cpubrand = gets.chomp 
+                    if answer_cpubrand == "1"
+                        puts "You can buy a Ryzen 5 3600 and you'd be satisfied with it. Probably the best bang for the buck right now. Though, Ryzen 5000 is coming out soon, so you might want to wait for that instead."
+                    elsif answer_cpubrand == "2"
+                        puts "Probably your best bet is an i5-10600K. Usually for gaming, this is all you'd need"
+                    elsif answer_cpubrand == "3"
+                        puts "Either a Ryzen 5 3600 or an i5-10400 would be fine for what you need"
+                    end
+        elsif answer_1 == "5"
+            puts "You can "
         end
