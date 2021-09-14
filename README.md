@@ -8,8 +8,8 @@
   - Mã của map: Trong osu!, mỗi map mà được nạp lên hệ thống sẽ được áp thêm một mã code, để nhận dạng được các map, thay vì sử dụng tên do có thể có nhiều map có cùng một tên.
   - Star Rating: Trong osu!, độ khó của map được tính theo số sao của nó.
   - Thời lượng map (thường đi cùng với thời gian bài hát)
-  - Circle Size: Kích cỡ của vòng tròn
-  - Approach Rate: Trong osu!, để bấm vào những vòng tròn chuẩn thì có một vòng tròn sẽ đi từ ngoài vào đến vòng tròn cần bấm. 
-  - Overall Difficulty
-  - HP Drain
-  - BPM (Beats per Minute)
+  - Circle Size (CS): Kích cỡ của vòng tròn
+  - Approach Rate (AR): Trong osu!, để bấm vào những vòng tròn chuẩn thì có một vòng tròn sẽ đi từ ngoài vào đến vòng tròn cần bấm. Chỉ số này hiển thị thời gian để mà trong khoảng thời gian đó người chơi phải bấm vào vòng tròn để có thể bấm chuẩn nhất theo bài nhạc.
+  - Overall Difficulty (OD): Độ khó để bấm chuẩn vào vòng tròn.
+  - HP Drain (HP): Trong osu!, chúng ta có thể thấy một đường thẳng ở phía trên khu vực chơi. Đường này hiển thị máu của người chơi. Nếu người chơi hết máu, người chơi "fail" map đó, nghĩa là họ không chơi hết được map. Chỉ số này hiển thị xem những lỗi của người chơi ảnh hưởng thế nào đến thanh máu đó. 
+  - BPM (Beats per Minute): Độ nhanh của bài hát.
