@@ -13,3 +13,4 @@
   - Overall Difficulty (OD): Độ khó để bấm chuẩn vào vòng tròn.
   - HP Drain (HP): Trong osu!, chúng ta có thể thấy một đường thẳng ở phía trên khu vực chơi. Đường này hiển thị máu của người chơi. Nếu người chơi hết máu, người chơi "fail" map đó, nghĩa là họ không chơi hết được map. Chỉ số này hiển thị xem những lỗi của người chơi ảnh hưởng thế nào đến thanh máu đó. 
   - BPM (Beats per Minute): Độ nhanh của bài hát.
+* Kết quả có thể đạt được:
