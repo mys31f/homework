@@ -9,6 +9,6 @@ CREATE TABLE maplist (
     approach_rate decimal(2,1),
     overall_difficulty decimal(2,1),
     hp_drain decimal(2,1),
-    beats_per_minute int,
+    beats_per_minute int
 );
 /* Need to find a way to get time to be able to be imported.
