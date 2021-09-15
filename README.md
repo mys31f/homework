@@ -18,3 +18,6 @@ Sử dụng script `table.sql`, ta có thể tạo ra một database với tên 
 Để thêm dữ liệu vào trong database, ta có thể sử dụng script `import.sql`. Trong script này có chứa một số dữ liệu mô phỏng, trong đó function `IMPORT INTO `  được dùng để thêm thông tin vào trong bảng.
 * Kết quả có thể đạt được: Bảng có chứa các giá trị
 * Progress: đã có thể tạo bảng thành công
+* Việc làm: 
+  - Hoàng Nam Quốc: thu thập dữ liệu và import dữ liệu
+  - Bùi Bảo Lâm: initialize database và viết mô tả
