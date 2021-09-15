@@ -4,7 +4,7 @@ CREATE TABLE maplist (
     map_id int,
     mapper varchar(255),
     star_rating decimal(15,1),
-    map_length 
+    map_length int
     circle_size decimal(2,1),
     approach_rate decimal(2,1),
     overall_difficulty decimal(2,1),
