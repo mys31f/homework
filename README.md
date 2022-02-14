@@ -21,3 +21,7 @@ Sử dụng script `table.sql`, ta có thể tạo ra một database với tên 
 * Việc làm: 
   - Hoàng Nam Quốc: thu thập dữ liệu và import dữ liệu
   - Bùi Bảo Lâm: initialize database và viết mô tả
+
+## Bài 2: Tính toán:
+* Tính nghiệm của phương trình bậc 2:
+  - Các file 
