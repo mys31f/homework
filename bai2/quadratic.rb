@@ -25,8 +25,8 @@ class Analyze
 			elsif deltavalue.to_f == 0 # Executes if delta is equal to 0.
 				root0 = -(var_b) / (2 * var_a)
 			elsif deltavalue.to_f > 0 # Executes if delta is larger than 0.
-				root1 = (-(var_b) + deltavalue) / (2 * var_a)
-				root2 = (-(var_b) - deltavalue) / (2 * var_a)
+				root1 = (-(var_b) + Math.sqrt(deltavalue)) / (2 * var_a)
+				root2 = (-(var_b) - Math.sqrt(deltavalue)) / (2 * var_a)
 			end
 		end
 	end
