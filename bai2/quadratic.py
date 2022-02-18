@@ -10,7 +10,7 @@ deltavalue = (var_b ** 2) - 4 * var_a * var_c
 
 
 class Analyze:
-    def __root_calculation__(self):
+    def root_calculation():
         if var_a == 0:
             print("This function is not valid.")
         else:
@@ -25,12 +25,13 @@ class Analyze:
                 root1 = (-(var_b) + math.sqrt(deltavalue)) / (2 * var_a)
                 root2 = (-(var_b) - math.sqrt(deltavalue)) / (2 * var_a)
 
-    def __root_print__(self):
-        if root0 != " ":
+    def root_print():
+        if root0 != "":
             print("The root of this function is x = ", root0)
-        elif root1 != " " and root2 != " ":
+        elif root1 != "" and root2 != "":
             print("The roots of this function are x1 = ",
                   root1, "and x2 = ", root2)
 
 
-Analyze()
+Analyze.root_calculation()
+Analyze.root_print()

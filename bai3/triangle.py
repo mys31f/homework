@@ -7,12 +7,12 @@ var_c = float(input("What's the last number?"))
 
 
 class Verify:
-    validation1 = var_a + var_b > var_c
-    validation2 = var_a + var_c > var_b
-    validation3 = var_b + var_c > var_a
 
     def Validate():
-        print(var_a, var_b, var_c)
+        validation1 = var_a + var_b > var_c
+        validation2 = var_a + var_c > var_b
+        validation3 = var_b + var_c > var_a
+        print(validation1, validation2, validation3)
 
 
 Verify.Validate()
