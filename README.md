@@ -8,4 +8,5 @@
 * Sđt: [+84927543055](tel:+84927543055)
 * Email: hotbreadusa@gmail.com
 
+## Note to self: please define the methods in the classes with their required parameters.
 
