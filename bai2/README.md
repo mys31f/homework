@@ -4,7 +4,7 @@
     ```shell
     $ ruby simplecalc.rb
     ```
-  hoặc
+   hoặc
     ```shell
     $ python simplecalc.py
     ```
