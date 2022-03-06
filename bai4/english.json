@@ -1,0 +1,19 @@
+{
+    "maindishes": [
+        "pizza",
+        "spaghetti",
+        "salad",
+    ],
+
+    "drinks": [
+        "coffee",
+        "tea",
+        "beer",
+    ],
+
+    "desserts": [
+        "ice cream",
+        "cake",
+        "pie",
+    ],
+}
