@@ -1,0 +1,19 @@
+{
+    "maindishes": [
+        "pizza",
+        "spaghetti",
+        "salad",
+    ],
+
+    "drinks": [
+        "cà phê",
+        "trà",
+        "bia",
+    ],
+
+    "desserts": [
+        "kem",
+        "bánh kem",
+        "bánh táo",
+    ],
+}
